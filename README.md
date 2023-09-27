@@ -1,6 +1,6 @@
 # multi_app
 
-A Flutter application of Multi Apps.
+A Flutter project, composed of Multiple Apps.
 
 ## Getting Started
 
