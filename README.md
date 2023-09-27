@@ -1,6 +1,6 @@
 # multi_app
 
-A Flutter project that composed of Multiple Apps. including a BMI calculator app, a currency app which shows the price of bitcoin, etherium and LTC coins prices in different currency units, xylophone app, a funsy calculator app, an instagram ui demo, a bicycle store app and etc. https://github.com/AmirHosseinYazdani/All-in-one/issues/1#issue-1915304086
+A Flutter project that composed of Multiple Apps. including a BMI calculator app, a currency app which shows the price of bitcoin, etherium and LTC coins prices in different currency units, xylophone app, a funsy calculator app, an instagram ui demo, a bicycle store app and etc. ![bike_card](https://github.com/AmirHosseinYazdani/All-in-one/assets/68550939/cd13966d-00a9-4b0c-a902-189a5deeff5b)
 
 
 
