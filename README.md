@@ -18,8 +18,6 @@ A Flutter project that composed of Multiple Apps. including a BMI calculator app
 ![Screenshot_2023-09-27-14-55-06-008_com amir multi_app](https://github.com/AmirHosseinYazdani/All-in-one/assets/68550939/c8fbfa4d-5694-4ddf-9688-55f2f7705347)
 ![Screenshot_2023-09-27-14-55-16-203_com amir multi_app](https://github.com/AmirHosseinYazdani/All-in-one/assets/68550939/5146ad83-2c2f-426c-a13a-385f393c55e2)
 ![Screenshot_2023-09-27-14-55-34-421_com amir multi_app](https://github.com/AmirHosseinYazdani/All-in-one/assets/68550939/fb8759d7-5687-45de-b3bd-e032baf3deb5)
-![Screenshot_2023-09-27-14-55-36-541_com amir multi_app](https://github.com/AmirHosseinYazdani/All-in-one/assets/68550939/2a4c96be-7dc5-4907-b7e7-ed60d56b2097)
-![Screenshot_2023-09-27-14-55-38-597_com amir multi_app](https://github.com/AmirHosseinYazdani/All-in-one/assets/68550939/759c4dc5-bea3-47f8-8d7c-c6c571c54f09)
 
 
 ## Getting Started
