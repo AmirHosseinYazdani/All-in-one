@@ -7,7 +7,6 @@ A Flutter project that composed of Multiple Apps. including a BMI calculator app
 ![Screenshot_2023-09-27-14-53-59-157_com amir multi_app](https://github.com/AmirHosseinYazdani/All-in-one/assets/68550939/03f07397-cfe1-49fc-82f1-a693fd1c2fe8)
 ![Screenshot_2023-09-27-14-54-19-506_com amir multi_app](https://github.com/AmirHosseinYazdani/All-in-one/assets/68550939/d7112833-48ef-4232-b612-342c60b08421)
 ![Screenshot_2023-09-27-14-55-16-203_com amir multi_app](https://github.com/AmirHosseinYazdani/All-in-one/assets/68550939/c3764e0e-f9e7-4f9a-bfec-6bca3e13dce8)
-![Screenshot_2023-09-27-14-54-19-506_com amir multi_app](https://github.com/AmirHosseinYazdani/All-in-one/assets/68550939/1bf0252e-3327-4624-8e02-55d54c9b0bbf)
 ![Screenshot_2023-09-27-14-54-33-762_com amir multi_app](https://github.com/AmirHosseinYazdani/All-in-one/assets/68550939/293152b5-0db2-49b9-9753-7002570f5f59)
 ![Screenshot_2023-09-27-14-54-33-762_com amir multi_app](https://github.com/AmirHosseinYazdani/All-in-one/assets/68550939/2b91f6dc-4961-4e81-9805-c9def7eaaabc)
 ![Screenshot_2023-09-27-14-54-39-899_com amir multi_app](https://github.com/AmirHosseinYazdani/All-in-one/assets/68550939/58e22c99-1a97-45d4-93ac-894e40e361fd)
