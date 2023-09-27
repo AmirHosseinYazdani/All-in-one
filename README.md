@@ -1,6 +1,6 @@
 # multi_app
 
-A Flutter project, composed of Multiple Apps.
+A Flutter project that composed of Multiple Apps. including a BMI calculator app, a currency app which shows the price of bitcoin, etherium and LTC coins prices in different currency units, xylophone app, a funsy calculator app, an instagram ui demo, a bicycle store app and etc. 
 
 ## Getting Started
 
